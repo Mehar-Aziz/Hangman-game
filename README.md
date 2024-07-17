@@ -1,1 +1,1 @@
-# Maze-game
+# Hangman Game
